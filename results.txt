@@ -1,0 +1,36 @@
+
+input.txt
+
+apple
+banana
+cherry
+melon
+strawberry
+kiwi
+mango
+honeydew
+
+After running ./redir input.txt sort output.txt 
+
+output.txt
+
+apple
+banana
+cherry
+honeydew
+kiwi
+mango
+melon
+strawberry
+
+After running ./redir input.txt wc output.txt 
+
+output.txt
+
+       8       8      57
+
+After running ./redir input.txt "wc -l" output.txt 
+
+output.txt
+
+       8

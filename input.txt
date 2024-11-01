@@ -1,3 +1,8 @@
-1
-2
-3
+apple
+banana
+cherry
+melon
+strawberry
+kiwi
+mango
+honeydew
